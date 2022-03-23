@@ -1,10 +1,10 @@
-# site-barbeiro
+# site-barbeiro 💈
 
 ## Objetivo 🎯
 Escolher uma profissão e criar um site responsivo.
 
 
-**Status**: Em construção 🚧
+**Status**: Conclúido ✔️
 ## Tecnologias e Ferramentas utilizadas 🛠️
 - Visual Studio Code
 - HTML5
@@ -12,4 +12,4 @@ Escolher uma profissão e criar um site responsivo.
 - Flexbox
 
 ## Projeto Online
-Em breve...
+https://endryomachado.github.io/site-barbeiro
