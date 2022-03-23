@@ -4,7 +4,7 @@
 Escolher uma profissão e criar um site responsivo.
 
 
-**Status**: Conclúido ✔️
+**Status**: Concluído ✔️
 ## Tecnologias e Ferramentas utilizadas 🛠️
 - Visual Studio Code
 - HTML5
